@@ -22,7 +22,7 @@
 
 ```yaml
 nome:        Luis Rodrigo Lima Rodrigues
-cargo:       Supervisor de Aplicações @ Globaltec Educacional
+cargo:       Supervisor de Departamento @ Globaltec Educacional
 foco:        Backend — NestJS • Prisma • PostgreSQL • TypeScript
 também:      React/Next.js • Flutter • IoT com ESP32
 infra:       VMs, VPS, Docker, Caddy e Nginx
@@ -169,7 +169,7 @@ Desenvolvedor backend que constrói sistemas **de ponta a ponta**: modelagem do 
 ## 💼 Trajetória
 
 ```
-2025 ──── 🧭  Globaltec Educacional — Supervisor de Aplicações (atual)
+2025 ──── 🧭  Globaltec Educacional — Supervisor de Departamento (atual)
        └── 🎲  MaxRPG — criador e mantenedor (maxrpg.io)
 
 2024 ──── 💻  Globaltec Educacional — Auxiliar de Programação
