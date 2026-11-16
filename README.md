@@ -40,7 +40,7 @@ Desenvolvedor backend que constrói sistemas **de ponta a ponta**: modelagem do 
   <table>
     <tr>
       <td align="center" width="25%">
-        <h2>🎲 800</h2>
+        <h2>🎲 mais de 800 </h2>
         <b>Usuários no MaxRPG</b>
         <p><sub>Plataforma própria em produção</sub></p>
       </td>
@@ -74,7 +74,7 @@ Desenvolvedor backend que constrói sistemas **de ponta a ponta**: modelagem do 
     <td colspan="2" valign="top">
       <h3>🎲 <a href="https://github.com/Lorugo01/maxrpg-showcase">MaxRPG</a> · <a href="https://maxrpg.io">maxrpg.io</a></h3>
       <p><b>Fichas digitais de D&amp;D 5e com mesas em tempo real</b></p>
-      <p>Cálculo automático da ficha, multiclasse (PHB 2024), homebrew, rolador de dados e mesas compartilhadas via <b>SSE</b>, no PC e no celular. Cerca de <b>800 usuários</b>, com deploy em VPS.</p>
+      <p>Cálculo automático da ficha, multiclasse (PHB 2024), homebrew, rolador de dados e mesas compartilhadas via <b>SSE</b>, no PC e no celular. Cerca de <b>mais de 800 usuários</b>, com deploy em VPS.</p>
       <p>
         <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
         <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
