@@ -30,7 +30,7 @@ formação:    Engenharia de Software (UNDB, 2026)
 projeto:     maxrpg.io — fichas digitais de D&D 5e
 ```
 
-Desenvolvedor backend que constrói sistemas **de ponta a ponta**: modelagem do banco, APIs, autenticação, tempo real e deploy em servidor próprio. Lidero as equipes de aplicações da Globaltec e mantenho o **MaxRPG** em produção.
+Desenvolvedor Backend Pleno que constrói sistemas **de ponta a ponta**: modelagem do banco, APIs, autenticação, tempo real e deploy em servidor próprio. Lidero as equipes de aplicações da Globaltec e mantenho o **MaxRPG** em produção.
 
 ---
 
